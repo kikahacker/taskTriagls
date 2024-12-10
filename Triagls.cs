@@ -8,9 +8,9 @@ namespace ConsoleApp4
 {
     internal class Triagls
     {
-        double Storona1;
-        double Storona2;
-        double Storona3;
+        public static double Storona1;
+        public static double Storona2;
+        public static double Storona3;
         public Triagls() { }
         public Triagls(double str1, double str2, double str3)
         {
